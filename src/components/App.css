@@ -42,3 +42,9 @@ h1 {
   font-size: 1.8rem;
   color: #fff;
 }
+
+.btn-background {
+  background-color: #cca353;
+  font-size: 1rem;
+  color: #fff;
+}
